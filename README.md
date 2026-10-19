@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -106,5 +105,116 @@
 <body>
 
     <header>
-        <h1>Vit
-        
+        <h1>Vitrine Imobiliária</h1>
+        <p>Encontre o seu próximo imóvel disponível no QuintoAndar</p>
+    </header>
+
+    <div class="container">
+
+        <!-- Imóvel 1 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Imóvel Selecionado 1</h2>
+                <p class="card-subtitle">📍 Confira os detalhes completos do imóvel</p>
+            </div>
+            <a href="http://quin.to/9aampsnn" class="btn-view" target="_blank" rel="noopener noreferrer">
+                🏠 Ver Imóvel no QuintoAndar
+            </a>
+        </div>
+
+        <!-- Imóvel 2 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Imóvel Selecionado 2</h2>
+                <p class="card-subtitle">📍 Confira os detalhes completos do imóvel</p>
+            </div>
+            <a href="http://quin.to/icpwuhqe" class="btn-view" target="_blank" rel="noopener noreferrer">
+                🏠 Ver Imóvel no QuintoAndar
+            </a>
+        </div>
+
+        <!-- Imóvel 3 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Imóvel Selecionado 3</h2>
+                <p class="card-subtitle">📍 Confira os detalhes completos do imóvel</p>
+            </div>
+            <a href="http://quin.to/ixcevoto" class="btn-view" target="_blank" rel="noopener noreferrer">
+                🏠 Ver Imóvel no QuintoAndar
+            </a>
+        </div>
+
+        <!-- Imóvel 4 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Imóvel Selecionado 4</h2>
+                <p class="card-subtitle">📍 Confira os detalhes completos do imóvel</p>
+            </div>
+            <a href="http://quin.to/owoedfwh" class="btn-view" target="_blank" rel="noopener noreferrer">
+                🏠 Ver Imóvel no QuintoAndar
+            </a>
+        </div>
+
+        <!-- Imóvel 5 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Imóvel Selecionado 5</h2>
+                <p class="card-subtitle">📍 Confira os detalhes completos do imóvel</p>
+            </div>
+            <a href="http://quin.to/v2xkdiln" class="btn-view" target="_blank" rel="noopener noreferrer">
+                🏠 Ver Imóvel no QuintoAndar
+            </a>
+        </div>
+
+        <!-- Imóvel 6 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Imóvel Selecionado 6</h2>
+                <p class="card-subtitle">📍 Confira os detalhes completos do imóvel</p>
+            </div>
+            <a href="http://quin.to/isifekp3" class="btn-view" target="_blank" rel="noopener noreferrer">
+                🏠 Ver Imóvel no QuintoAndar
+            </a>
+        </div>
+
+        <!-- Imóvel 7 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Imóvel Selecionado 7</h2>
+                <p class="card-subtitle">📍 Confira os detalhes completos do imóvel</p>
+            </div>
+            <a href="http://quin.to/uuduopvv" class="btn-view" target="_blank" rel="noopener noreferrer">
+                🏠 Ver Imóvel no QuintoAndar
+            </a>
+        </div>
+
+        <!-- Imóvel 8 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Imóvel Selecionado 8</h2>
+                <p class="card-subtitle">📍 Confira os detalhes completos do imóvel</p>
+            </div>
+            <a href="http://quin.to/vzwp5g4o" class="btn-view" target="_blank" rel="noopener noreferrer">
+                🏠 Ver Imóvel no QuintoAndar
+            </a>
+        </div>
+
+        <!-- Imóvel 9 -->
+        <div class="card">
+            <div class="card-header">
+                <h2 class="card-title">Imóvel Selecionado 9</h2>
+                <p class="card-subtitle">📍 Confira os detalhes completos do imóvel</p>
+            </div>
+            <a href="http://quin.to/uhaarywg" class="btn-view" target="_blank" rel="noopener noreferrer">
+                🏠 Ver Imóvel no QuintoAndar
+            </a>
+        </div>
+
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Vitrine Imobiliária. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
